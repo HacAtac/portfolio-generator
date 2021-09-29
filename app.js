@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const fs = require('fs');
 const generatePage = require('./src/page-template');
 
@@ -81,3 +82,6 @@ fs.writeFile('./index.html', pageHTML, err => {
 //};
 
 //printProfileData(profileDataArgs);
+=======
+
+>>>>>>> 8ae3bc2155f7ca92e0ed5e08969e12b457e9ecf8
